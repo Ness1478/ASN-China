@@ -16,7 +16,7 @@ def initFile():
     with open("ASN.China.list", "w") as asnFile:
         asnFile.write("// ASN Information in China. (https://github.com/Ness1478/ASN-China) \n")
         asnFile.write("// Last Updated: UTC " + localTime + "\n")
-        asnFile.write("// Made by Vincent, All rights reserved. " + "\n\n")
+        asnFile.write("// Made by Ness, All rights reserved. " + "\n\n")
 
 def saveLatestASN():
     url = "https://bgp.he.net/country/CN"
