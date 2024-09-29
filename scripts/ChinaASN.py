@@ -1,12 +1,11 @@
 '''
-Author: Vincent Young
-Date: 2022-11-17 02:29:30
-LastEditors: Vincent Young
-LastEditTime: 2022-11-17 03:46:25
+Author: Ness
+Date: 2022-09-29 15:55:30
+LastEditors: Ness
+LastEditTime: 2022-09-29 15:55:25
 FilePath: /ASN-China/scripts/ChinaASN.py
-Telegram: https://t.me/missuo
 
-Copyright © 2022 by Vincent, All Rights Reserved. 
+Copyright © 2022 by Ness, All Rights Reserved. 
 '''
 import requests
 from lxml import etree
