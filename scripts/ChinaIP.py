@@ -6,7 +6,7 @@ LastEditTime: 2024-09-29 15:52:20
 FilePath: /ASN-China/syncIP.py
 
 
-Copyright © 2022 by Vincent, All Rights Reserved. 
+Copyright © 2022 by Ness, All Rights Reserved. 
 '''
 
 import requests
